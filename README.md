@@ -26,7 +26,7 @@ pandas, pandas, matplotlib, seaborn, keras, tensorflow, scikit-learn.
 
 ## Architecture Diagram/Flow
 
-![Diagram1](architecture_diagram.jpg)
+[![Diagram1](architecture_diagram.jpg)](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/blob/main/architecture_diagram.jpg)
 
 ## Installation
 
