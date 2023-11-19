@@ -412,17 +412,23 @@ for images, labels in test_data.take(1):
 
 ## Output:
 ### Brain MRI Sample in Batch
-![output1](MRISampleInBatch.jpg)
+![MRISampleInBatch](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/69161323-cb13-4acd-8390-cba01eaef462)
+
 ### Predicted Values
-![output1](Prediction.jpg)
+![Prediction](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/fa0ae96a-a5c5-425d-9ce4-5d3cf6eef093)
+
 ### Loss and Accuracy
-![output2](LossandAccuracy.jpg)
+![LossandAccuracy](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/7783630e-5650-4315-a0b3-95add1c8ba76)
+
 ### Confussion Matrix
-![output2](ConfussionMatrix.jpg)
+![ConfussionMatrix](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/33c8a9c1-63f9-41f8-bcc5-7e70b322d533)
+
 ### Alzheimer Probability of a Random MRI from Test Data
-![output2](ProbabilityOfRandomMRI.jpg)
+![ProbabilityOfRandomMRI](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/5332d958-94f9-44e2-b1d7-1d487d7d4aa3)
+
 ### Predicted Output
-![output2](FinalOutput.jpg)
+![FinalOutput](https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/assets/94174536/b64b9594-8898-41a4-b5e4-f107727147a2)
+
 
 ## Result:
 
