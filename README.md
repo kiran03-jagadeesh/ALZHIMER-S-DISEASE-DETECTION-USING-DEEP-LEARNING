@@ -31,6 +31,7 @@ pandas, pandas, matplotlib, seaborn, keras, tensorflow, scikit-learn.
 
 1. Install the required python libraries:
 
+
    ```shell
    !pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
 2. Install the required packages:
