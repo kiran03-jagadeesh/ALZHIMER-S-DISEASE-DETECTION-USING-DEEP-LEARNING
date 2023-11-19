@@ -410,6 +410,7 @@ for images, labels in test_data.take(1):
         plt.gca().axes.yaxis.set_ticklabels([])
         plt.gca().axes.xaxis.set_ticklabels([])
 ```
+
 ## Output:
 ### Brain MRI Sample in Batch
 ![output1](MRISampleInBatch.jpg)
