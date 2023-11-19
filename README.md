@@ -1,4 +1,4 @@
-# ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT
+# ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING
 
 Alzheimer's disease is a progressive neurological illness that destroys memory, thinking ability, and mental health in general. Proper and timely diagnosis is essential when it comes to effective assistance and recovery. Our objective seeks to develop An approach for predicting Alzheimer's disease using modern technologies in order(CNN & RNN).
 
