@@ -25,7 +25,7 @@ Alzheimer's disease is a progressive neurological illness that destroys memory, 
 pandas, pandas, matplotlib, seaborn, keras, tensorflow, scikit-learn.
 
 ## Architecture Diagram/Flow
-[![output](architecture_diagram1.jpg)]
+![output](architecture_diagram1.jpg)
 
 ## Installation
 
