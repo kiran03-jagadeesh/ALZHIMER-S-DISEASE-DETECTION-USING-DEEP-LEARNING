@@ -26,19 +26,18 @@ pandas, pandas, matplotlib, seaborn, keras, tensorflow, scikit-learn.
 
 ## Architecture Diagram/Flow
 ![output](architecture_diagram1.jpg)
-
+https://github.com/kiran03-jagadeesh/ALZHIMER-S-DISEASE-DETECTION-USING-DEEP-LEARNING-MINIPROJECT/blob/main/architecture_diagram1.jpg
 ## Installation
 
 1. Install the required python libraries:
-
-
+2. 
    ```shell
    !pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
-2. Install the required packages:
+3. Install the required packages:
 
    ```shell
    pip install keras
-3. If you face any issues related to GPU support or TensorFlow installation, you might need to install specific versions or configure GPU drivers.
+4. If you face any issues related to GPU support or TensorFlow installation, you might need to install specific versions or configure GPU drivers.
 
 ## Usage
 
